@@ -1,0 +1,3 @@
+tomato - 100
+potato - 120
+mango - 300
